@@ -177,3 +177,10 @@ imported automatically.
 # Support
 
 For help just email us at [help@shipstream.io](mailto:help@shipstream.io)!
+
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## v1.2.1
+### Changed
+- Added order flow diagram in repo
