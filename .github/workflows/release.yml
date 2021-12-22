@@ -23,5 +23,3 @@ jobs:
           automatic_release_tag: "latest"
           prerelease: true
           title: "Manual Installation Build"
-          files: |
-            app
